@@ -1,3 +1,9 @@
+### Clone the git
+- Create the module dir `02-Cloud` and then create `class-work` folders.
+- Inside the folder open the terminal and clone the repo.
+ 
+![Clone Git](/Assets/clone-git.png)
+
 ### Day 1
 
 - Big Picture
