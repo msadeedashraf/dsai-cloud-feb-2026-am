@@ -32,6 +32,10 @@
 
 ### Day 3
 
+### Creating Azure Student Account
+
+[Free Student Account  ](https://azure.microsoft.com/en-us/free/students)
+
 ### Activate the Learn Sandbox
 
 [Sandbox](https://learn.microsoft.com/en-us/training/modules/describe-core-architectural-components-of-azure/4-exercise-explore-learn-sandbox?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.azure-fundamentals-describe-azure-architecture-services)
